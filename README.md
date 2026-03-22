@@ -52,3 +52,6 @@ cd frontend
 npm install
 npm run dev
 ```
+
+## Estado del Desarrollo
+El pipeline incluye soporte nativo OCR (PDF) y vectorial (DWG/DXF) en Python.
